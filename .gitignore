@@ -16,5 +16,4 @@ node_modules
 #!.yarn/cache
 .pnp.*
 
-dist
 coverage
